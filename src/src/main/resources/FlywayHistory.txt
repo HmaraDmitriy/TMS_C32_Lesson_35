@@ -1,0 +1,20 @@
+Version: 1.0.0
+Description: << Flyway Baseline >>
+Type: BASELINE
+Script: << Flyway Baseline >>
+Checksum: null
+Installed by: postgres
+Installed on: 2025-02-19 16:05:44.528638
+Execution time: 0
+Success: true
+----------------------------
+Version: 1.1.1
+Description: my first migration
+Type: SQL
+Script: V1_1_1__my_first_migration.sql
+Checksum: 2109907266
+Installed by: postgres
+Installed on: 2025-02-19 16:16:47.979629
+Execution time: 20
+Success: true
+----------------------------
